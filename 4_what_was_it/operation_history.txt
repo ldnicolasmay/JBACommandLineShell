@@ -1,0 +1,11 @@
+Welcome to the basic calculator!
+Enter an arithmetic operation or type 'quit' to quit:
+Operation check failed!
+Enter an arithmetic operation or type 'quit' to quit:
+155
+Enter an arithmetic operation or type 'quit' to quit:
+-15
+Enter an arithmetic operation or type 'quit' to quit:
+Operation check failed!
+Enter an arithmetic operation or type 'quit' to quit:
+Goodbye!
